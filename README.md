@@ -3,10 +3,10 @@
 __SSH:__
 
 ```bash
-git@github.com:llb549967391/kaggle_employment_access_challenge.git
+git clone git@github.com:llb549967391/kaggle_employment_access_challenge.git
 ```
 __HTTPS:__
 
 ```bash
-https://github.com/llb549967391/kaggle_employment_access_challenge.git
+git clone https://github.com/llb549967391/kaggle_employment_access_challenge.git
 ```
